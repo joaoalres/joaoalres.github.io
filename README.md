@@ -1,4 +1,4 @@
-# João Al–res – Personal Portfolio
+# João – Personal Portfolio
 
 This repository contains my personal portfolio website.
 
